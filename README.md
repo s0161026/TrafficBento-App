@@ -1,5 +1,5 @@
 # TrafficBento-App
-A real time traffic monitor Android App
+A traffic monitor Android App
 
 The app retrieved the open data of different bus routes from Taichung City Government, transforming URL files to XML files and provide drivers data visualization pattern of instant traffic information.
 
