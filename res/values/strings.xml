@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">路況便當</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="choice">選擇一條道路查詢流量：</string>
+    <string name="longitude_label">經度：</string>
+    <string name="latitude_label">緯度：</string>
+    <string name="address_label">您現在的位址：</string>
+    <string name="name_road">選擇道路</string>
+    <string name="name_drct">選擇方向</string>
+    <string name="go_back">關閉</string>
+    <string name="address_match">服務範圍：</string>
+    <string name="go_ahead">前往</string>
+
+</resources>
